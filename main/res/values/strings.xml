@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Teether</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone">Phone</string>
+    <string name="age">Age</string>
+    <string name="submit">Submit</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="terms_and_conditions">I agree to the terms and conditions</string>
+    <string name="err_name">Should only contain A-Z.</string>
+    <string name="invalid_name">Please enter a valid name.</string>
+    <string name="invalid_email">Please enter a valid email.</string>
+    <string name="invalid_confirm_email">Email does not match.</string>
+    <string name="invalid_password">Please enter a valid password.</string>
+    <string name="empty_password">Password cannot be empty.</string>
+    <string name="invalid_confirm_password">Passwords do not match.</string>
+    <string name="invalid_phone">Please enter a valid Phone</string>
+    <string name="invalid_age">Age must be between 12 and 60.</string>
+    <string name="signUp">Teether - Sign Up</string>
+    <string name="password_regex_char">Your password must be at least 6 characters, but not more than 10.</string>
+    <string name="base_url">http://teether.000webhostapp.com/</string>
+    <string name="secured_base_url">https://teether.000webhostapp.com/res/</string>
+    <string name="email_taken">Email is already in use.</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
